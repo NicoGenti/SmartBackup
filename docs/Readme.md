@@ -64,10 +64,10 @@ Example Output
 
 ## Contributing
 
-For your question send un email to: 誰も読まない@こんにちは.jp
+For your question send un email to: nicolas.gentilucci@live.it
 
 ## License
 
-smart-backup is Copyright © 2021-2021 Smartpeg. It is free
+smart-backup is Copyright © 2021-2021. It is free
 software, and may be redistributed under the terms specified in the
-[LICENSE](documentations/License.md) file.
+[LICENSE](./License.md) file.
