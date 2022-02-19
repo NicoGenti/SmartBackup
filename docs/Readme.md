@@ -24,13 +24,15 @@ How to have a nice installation of ***SMART-BACKUP***
 
 
 - 1. Setup SendGrid for mail:
-	- 1.1 View the file [SENDGRID](./SendGrid.md) for installation method;
+  - 1.1 View the file [SENDGRID](./SendGrid.md) for installation method;
 
-- 2. Download portable app Windows/Linux [link]();
+- 2. Download portable app Windows/Linux from /Program/smart-backupLinux  or smart-backupWin;
 
 - 3. HASH VERIFICATION:
-	
-	- 3.1 View the file [HASHVERIFICATION](./HashVerification.md)
+
+  - 3.1 View the file [HASHVERIFICATION](./HashVerification.md)
+
+- 4. Configure [appsettings.json](./Settings.md)
 
 - 4. Configure **ListOrganization.txt** with your Azure DevOps's organization (*Organization new line new organization!!*)
 
@@ -68,6 +70,6 @@ For your question send un email to: nicolas.gentilucci@live.it
 
 ## License
 
-smart-backup is Copyright © 2021-2021. It is free
+smart-backup is Copyright © 2022. It is free
 software, and may be redistributed under the terms specified in the
 [LICENSE](./License.md) file.
